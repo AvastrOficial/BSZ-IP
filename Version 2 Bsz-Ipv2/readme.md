@@ -1,5 +1,8 @@
 # Informacion de la actualizacion :
-se agrego 1 api de busqueda mas 1 libreria free 
+se agrego 1 api de busqueda oline 
+<br></br>
+mas 1 libreria free oline
+<br></br>
 > Api : https://www.ip2location.io/
 <br></br>
 > libreria en js : https://ipapi.co/{ip}/json/
