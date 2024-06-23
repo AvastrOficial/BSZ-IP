@@ -13,3 +13,5 @@ se agrego 1 api de busqueda mas 1 libreria free
 ## fotos sobre la base datos que se consiguen ejemplo el orden es :
 ![image](https://github.com/AvastrOficial/BSZ-IP/assets/91764815/6110a513-d715-4b20-b518-c8ec42583de2)
 
+## foto de como se ve con una busqueda de ip : 
+![image](https://github.com/AvastrOficial/BSZ-IP/assets/91764815/2ad8cb4c-f729-44c1-8934-d45765b21c19)
