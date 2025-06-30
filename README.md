@@ -26,7 +26,7 @@ obtención de información de la IP. Luego, presenta la información de la IP de
 <br></br>
 > pkg install python
 <br></br>
-> cd Version 2 Bsz-Ipv2
+> cd 'Version 2 Bsz-Ipv2'
 <br></br>
 > python BSZ-IPv2.py
 
